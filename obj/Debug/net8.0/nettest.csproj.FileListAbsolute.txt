@@ -1,0 +1,14 @@
+C:\Users\Tesky\nettest\bin\Debug\net8.0\nettest.exe
+C:\Users\Tesky\nettest\bin\Debug\net8.0\nettest.deps.json
+C:\Users\Tesky\nettest\bin\Debug\net8.0\nettest.runtimeconfig.json
+C:\Users\Tesky\nettest\bin\Debug\net8.0\nettest.dll
+C:\Users\Tesky\nettest\bin\Debug\net8.0\nettest.pdb
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.AssemblyInfoInputs.cache
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.AssemblyInfo.cs
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.csproj.CoreCompileInputs.cache
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.dll
+C:\Users\Tesky\nettest\obj\Debug\net8.0\refint\nettest.dll
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.pdb
+C:\Users\Tesky\nettest\obj\Debug\net8.0\nettest.genruntimeconfig.cache
+C:\Users\Tesky\nettest\obj\Debug\net8.0\ref\nettest.dll
